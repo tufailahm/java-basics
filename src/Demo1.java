@@ -22,6 +22,13 @@ public class Demo1 {
 			System.out.println(p);
 		}
 	}
+	
+	public void takeInput(int num,int...marks) {
+		
+	}
+	
+	
+	
 	public static void main(String[] args) {
 		Demo1 d = new Demo1();
 		int result = d.addNumbers(7,7,2,23);
